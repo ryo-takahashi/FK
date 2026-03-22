@@ -13,8 +13,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "FilterKit",
-            url: "https://github.com/ryo-takahashi/FK/releases/download/0.7.0/FilterKit.xcframework.zip",
-            checksum: "5e603a94026c12dfba9afb82cb6ab61202bbbb2b176b9bfc2dff9d08f1c8a5e2"
+            url: "https://github.com/ryo-takahashi/FK/releases/download/0.8.0/FilterKit.xcframework.zip",
+            checksum: "a3a0a721ff6727339a0f425557b8d2b27233bf8f97260c1cc54101ee24f56582"
         )
     ]
 )
